@@ -2,7 +2,7 @@
 
 ### Miguel García
 
-![El video en el drive](https://drive.google.com/file/d/1JTArlpqmPzR_JrCDnDplJSzKAT0Bsyt1/view?usp=sharing) ya que no podía cargarlo completo aquí
+[El video en el drive](https://drive.google.com/file/d/1JTArlpqmPzR_JrCDnDplJSzKAT0Bsyt1/view?usp=sharing) ya que no podía cargarlo completo aquí
 
 ### Kenny Mei 
 
