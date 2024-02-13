@@ -14,4 +14,6 @@
 
 ### Andres Delgado
 
-![Tornado](https://github.com/mgarcial/Chococonos/assets/123556347/ebb9f904-8ef5-4bbe-bb2e-d94807c3864e)
+
+https://github.com/mgarcial/Chococonos/assets/123556347/4913dc65-34aa-4826-af92-60cb79a94489
+
