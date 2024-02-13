@@ -12,6 +12,6 @@
 
 [Video tornado](https://drive.google.com/drive/u/3/folders/13LdFxUzouGSqPMCaKQZMZXHYaJJq4Y2Y)
 
-##Andres Delgado
+### Andres Delgado
 
 ![Tornado](https://github.com/mgarcial/Chococonos/assets/123556347/ebb9f904-8ef5-4bbe-bb2e-d94807c3864e)
