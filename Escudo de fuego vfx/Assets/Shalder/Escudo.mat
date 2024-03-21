@@ -7,12 +7,12 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shield
-  m_Shader: {fileID: -6465566751694194690, guid: 8aeafc322a5fb3e459a78a8d82c6a086,
+  m_Name: Escudo
+  m_Shader: {fileID: -6465566751694194690, guid: afc3bd6eec7998f47a2d0a95418a2915,
     type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
-  m_LightmapFlags: 4
+  m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -35,17 +35,17 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Dissolve: 0.552
-    - _DissolveEdgeThickness: 0.01
-    - _FresnelPower: 4.3
+    - _CutoffHeight: 2.47
+    - _EdgeWidth: 4.4
+    - _NoiseScale: 34.44
+    - _NoiseStrenght: 18.7
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Speed: 5
     m_Colors:
-    - _DissolveEdgeColor: {r: 3.031433, g: 0.7013904, b: 0, a: 0}
-    - _FresnelColor: {r: 1, g: 0.2869346, b: 0, a: 0}
+    - _Albedo: {r: 0, g: 0, b: 0, a: 1}
+    - _Color: {r: 2.65098, g: 0.4235294, b: 0, a: 0}
   m_BuildTextureStacks: []
---- !u!114 &5629348203464529499
+--- !u!114 &3791672796733032539
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
