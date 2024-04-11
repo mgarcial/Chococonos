@@ -59,8 +59,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _MaskSmoothness: 0.21
-    - _MaskStart: 0.01
+    - _MaskSmoothness: 0.1
+    - _MaskStart: 0.65
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors: []

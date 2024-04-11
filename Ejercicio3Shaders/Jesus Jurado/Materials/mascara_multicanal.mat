@@ -70,7 +70,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _BlueChannelColor: {r: 0, g: 0, b: 1, a: 0}
-    - _GreenChannelColor: {r: 0, g: 1, b: 0, a: 0}
-    - _RedChannelColor: {r: 1, g: 0, b: 0, a: 0}
+    - _BlueChannelColor: {r: 0.9780208, g: 1, b: 0, a: 0}
+    - _GreenChannelColor: {r: 0.776351, g: 0, b: 1, a: 0}
+    - _RedChannelColor: {r: 0, g: 1, b: 0.8806343, a: 0}
   m_BuildTextureStacks: []
