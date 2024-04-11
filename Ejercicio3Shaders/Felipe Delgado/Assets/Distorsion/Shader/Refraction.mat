@@ -66,7 +66,7 @@ Material:
     - _DstBlend: 10
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Refraction_Strength: 40
+    - _Refraction_Strength: 125.65
     - _SrcBlend: 5
     - _Surface: 1
     - _ZTest: 4
