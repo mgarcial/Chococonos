@@ -23,8 +23,6 @@ Material:
   m_Name: Water
   m_Shader: {fileID: -6465566751694194690, guid: 9a52e68d589955d4ebae62e2c55e715c,
     type: 3}
-  m_Parent: {fileID: 0}
-  m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -33,10 +31,21 @@ Material:
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
-  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _DisplacementNoise1:
+        m_Texture: {fileID: 2800000, guid: 1bfc9e99be0528045802843355ce36cd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DisplacementNoise2:
+        m_Texture: {fileID: 2800000, guid: 4a163499352dae24b8f2a9b7fba16f2b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DisplacementNoise3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _ReflactionMap:
         m_Texture: {fileID: 2800000, guid: 6440a41fe91528749a5954d79395fa47, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -59,11 +68,19 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _CellDensity: 50.67
+    - _DisplacementPower: 1.03
+    - _FoamNoiseSpeed: 7.27
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _DeepColor: {r: 0.21824837, g: 0.30941656, b: 0.5698112, a: 0}
+    - _DeepColor: {r: 0, g: 0.089377075, b: 0.3433962, a: 0}
+    - _FoamNoiseFuzzines: {r: 3.2, g: 0.92, b: 0, a: 0}
+    - _LightColor: {r: 0.5705019, g: 0.8362868, b: 0.98490566, a: 0}
+    - _NoiseVelocity: {r: 0.12, g: -0.16, b: 0, a: 0}
     - _ReflactionAmount: {r: 20, g: 20, b: 0, a: 0}
+    - _RefractionIntensity: {r: 1.42, g: 0, b: 0, a: 0}
+    - _Scatter: {r: 0, g: 2.63, b: 0, a: 0}
     - _ShadowColor: {r: 0.5960785, g: 0.9437501, b: 0.9471697, a: 0}
     - _Velocity: {r: 0.5, g: 0.5, b: 0, a: 0}
     - _WaterAbsorption: {r: 0, g: 8.27, b: 0, a: 0}
