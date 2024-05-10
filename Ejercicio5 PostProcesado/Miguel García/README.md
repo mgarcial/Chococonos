@@ -1,1 +1,0 @@
-Readme de Miguel García
