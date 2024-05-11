@@ -53,12 +53,13 @@ MonoBehaviour:
       type: 3}
     passName: Cromatic aberration
   screenSpaceDistortion:
-    renderingShader: {fileID: 0}
-    passName: 
+    renderingShader: {fileID: -6465566751694194690, guid: b0dd63a9ba537e841892d0abd069b109,
+      type: 3}
+    passName: Distortion
   depthOfField:
     renderingShader: {fileID: -6465566751694194690, guid: 3601d6fe1c0f5984e8946d1735ca5a61,
       type: 3}
-    passName: profundidad
+    passName: Scene Depth
   vignetteMaskedTexture:
     renderingShader: {fileID: -6465566751694194690, guid: 7a84e90ed34497c479d6a3611d32edcb,
       type: 3}

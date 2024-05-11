@@ -63,6 +63,29 @@ MonoBehaviour:
   - {fileID: 5105759013671515138}
   - {fileID: -9020386920588250781}
   - {fileID: -8484916266026820344}
+  - {fileID: 1494345389694485600}
+--- !u!114 &1494345389694485600
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1510a15166bee8e40b96cab0f5ff191f, type: 3}
+  m_Name: ScreenSpaceDistortion
+  m_EditorClassIdentifier: 
+  active: 1
+  distortionAmount:
+    m_OverrideState: 0
+    m_Value: 1
+  distortionNormalMap:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
+  distortionVelocity:
+    m_OverrideState: 0
+    m_Value: {x: 0, y: 0}
 --- !u!114 &5105759013671515138
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -78,10 +101,10 @@ MonoBehaviour:
   active: 1
   vignetteMaskIntensity:
     m_OverrideState: 1
-    m_Value: 4.8
+    m_Value: 3.17
   vignettePower:
     m_OverrideState: 1
-    m_Value: 0.95
+    m_Value: 1.46
   overlayTexture:
     m_OverrideState: 1
     m_Value: {fileID: 2800000, guid: a3607ea15b7cf904c9faa5f8e7e11bfd, type: 3}

@@ -405,15 +405,15 @@
     ],
     "m_VertexContext": {
         "m_Position": {
-            "x": -14.999963760375977,
-            "y": -281.0
+            "x": -12.99998950958252,
+            "y": -292.0
         },
         "m_Blocks": []
     },
     "m_FragmentContext": {
         "m_Position": {
-            "x": -23.999969482421876,
-            "y": -136.99998474121095
+            "x": -22.999990463256837,
+            "y": -156.0
         },
         "m_Blocks": [
             {
@@ -563,9 +563,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1010.0000610351563,
-            "y": -648.0000610351563,
-            "width": 146.00006103515626,
+            "x": -1005.9999389648438,
+            "y": -648.0,
+            "width": 145.99993896484376,
             "height": 34.0
         }
     },
@@ -856,7 +856,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "36de066ab9364290b39703bde513f82d",
     "m_Id": 0,
-    "m_DisplayName": "AppertureSmoothness",
+    "m_DisplayName": "Aperture",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -1307,10 +1307,10 @@
     "m_Guid": {
         "m_GuidSerialized": "f1f828c8-6d3f-4ee9-95b4-705cbc2f436c"
     },
-    "m_Name": "FocalDistance",
+    "m_Name": "FocalPoint",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "FocalDistance",
-    "m_DefaultReferenceName": "_FocalDistance",
+    "m_RefNameGeneratedByDisplayName": "FocalPoint",
+    "m_DefaultReferenceName": "_FocalPoint",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -1485,7 +1485,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "8ed61891261f436ba4b4701aa6b1a63b",
     "m_Id": 0,
-    "m_DisplayName": "PixelOffset",
+    "m_DisplayName": "BlurDistance",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -1620,10 +1620,10 @@
     "m_Guid": {
         "m_GuidSerialized": "d6fec83b-eaa4-4be7-90fc-51e3c5929e81"
     },
-    "m_Name": "AppertureSmoothness",
+    "m_Name": "Aperture",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "AppertureSmoothness",
-    "m_DefaultReferenceName": "_AppertureSmoothness",
+    "m_RefNameGeneratedByDisplayName": "Aperture",
+    "m_DefaultReferenceName": "_Aperture",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -1765,10 +1765,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -685.0,
-            "y": -175.99996948242188,
-            "width": 183.00003051757813,
-            "height": 251.0
+            "x": -714.9999389648438,
+            "y": -156.00001525878907,
+            "width": 182.99993896484376,
+            "height": 251.00003051757813
         }
     },
     "m_Slots": [
@@ -2068,7 +2068,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "d8171d625c714eaca18201de415e28c4",
     "m_Id": 0,
-    "m_DisplayName": "FocalDistance",
+    "m_DisplayName": "FocalPoint",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -2255,10 +2255,10 @@
     "m_Guid": {
         "m_GuidSerialized": "312f9bd7-9ae8-4f31-a4d5-ce5e11f0d2ca"
     },
-    "m_Name": "PixelOffset",
+    "m_Name": "BlurDistance",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "PixelOffset",
-    "m_DefaultReferenceName": "_PixelOffset",
+    "m_RefNameGeneratedByDisplayName": "BlurDistance",
+    "m_DefaultReferenceName": "_BlurDistance",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -2359,10 +2359,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -827.9998779296875,
-            "y": -559.9999389648438,
-            "width": 228.99993896484376,
-            "height": 350.0
+            "x": -797.9999389648438,
+            "y": -548.0,
+            "width": 228.9998779296875,
+            "height": 350.0000305175781
         }
     },
     "m_Slots": [
@@ -2503,10 +2503,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1312.0,
-            "y": 33.99999237060547,
-            "width": 153.0001220703125,
-            "height": 34.00000762939453
+            "x": -1311.0,
+            "y": 34.0,
+            "width": 153.0,
+            "height": 34.0
         }
     },
     "m_Slots": [
